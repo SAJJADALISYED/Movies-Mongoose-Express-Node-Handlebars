@@ -11,7 +11,7 @@
 **/
 
 var bcrypt = require('bcryptjs');
-require('dotenv').config()
+// require('dotenv').config()
 const https = require("https")
 var readline = require('readline');
 var rl = readline.createInterface(
