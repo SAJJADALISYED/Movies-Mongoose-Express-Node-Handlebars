@@ -16,7 +16,7 @@ const https = require("https")
 var readline = require('readline');
 var rl = readline.createInterface(
   process.stdin, process.stdout);
-require('dotenv').config()
+//require('dotenv').config()
 var express = require('express');
 var mongoose = require('mongoose');
 const mongoosePaginate = require('mongoose-paginate-v2');
