@@ -3,7 +3,7 @@
 
 const { sortBy } = require("underscore");
 const { Movie } = require("./server");
-require('dotenv').config()
+// require('dotenv').config()
 const express = require('express')
 const app = express()
 const jwt = require('jsonwebtoken')
